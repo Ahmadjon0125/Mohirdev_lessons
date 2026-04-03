@@ -33,3 +33,4 @@ TITLE: PROCEDURE FOR FILLING OUT THE HAZARD OBSERVATION CARD (HOC/KNO).
 17.	The Operator has implemented a methodology for recording and analysing near-miss incidents. Hazard Observation Cards (HOC/KNO) are available in the corridors on each floor near the elevators. If you observe any unsafe actions, conditions, or near-miss incidents, please fill out a Hazard Observation Card. The completed form should be submitted to the Process Safety and Labour Protection Department. Office visitors may submit their cards through the employee accompanying them. The card will then be registered in the HOC/KNO logbook.
 18.	With this information, your visit to the office of "LUKOIL Uzbekistan Operating Company" will be convenient, comfortable, and safe.
 
+"
