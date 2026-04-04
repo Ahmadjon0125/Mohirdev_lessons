@@ -1,0 +1,1 @@
+edge-tts --voice en-US-AndrewNeural -f text.txt --rate=-15% --pitch=-5Hz --write-media output_natural.mp3                        ─╯
