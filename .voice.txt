@@ -1,1 +1,6 @@
 edge-tts --voice en-US-AndrewNeural -f text.txt --rate=-15% --pitch=-5Hz --write-media output_natural.mp3                        ─╯
+
+
+edge-tts --list-voices | grep "uz-UZ"   ## ovozni ko'rib beradi
+
+edge-tts --voice uz-UZ-SardorNeural -f text.txt --rate=-15% --pitch=-5Hz --write-media output_uzb.mp3
