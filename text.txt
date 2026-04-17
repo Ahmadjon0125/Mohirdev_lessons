@@ -1,29 +1,168 @@
-Occupational Health and Safety and Fire Safety Information for Visitors to the Office of "LUKOIL Uzbekistan Operating Company" LLC
-Visitor access to the building is managed by the security service via an electronic access system. For the duration of your visit, you will be issued an individual "Guest" card. Please always keep it with you during your visit.
-To access the office premises, please contact the receptionist at the visitor counter located in the lobby. State the purpose of your visit and the name of the employee who invited you. The receptionist will arrange a meeting in the lobby or escort you directly to the employee's workspace. After your visit, the individual "Guest" card must be returned to the receptionist.
-You can access the required floor using the elevator or the stairs.
-The cloakroom is located on the first floor of the building.
-Office doors are labelled with signs indicating the room number and the name of the department.
-A cafeteria is located on the first floor of the office.
-All floors feature specially equipped areas where you can enjoy a cup of coffee, water, or tea.
-Smoking is strictly prohibited inside the office premises and throughout the entire building! A designated smoking area is provided outside on the office grounds in a specifically marked location.
-If you have any concerns or feel uneasy about anything during your visit, please report it to the Corporate Security Service or Process Safety and Labour Protection Department
-To ensure the safety of company personnel and visitors, all premises in the building are equipped with an automatic fire detection and alarm system. Evacuation plans for staff and visitors, as well as emergency contact numbers, are posted on every floor.
-For firefighting purposes, corridors are equipped with fire hydrants with fire hoses, fire extinguishers, and manual fire alarm call points.
-A medical station is located on the first floor of the building. Internal extension: 40-03.
-Your responsibilities and actions in the event of an emergency, fire, or earthquake:
-                 If you discover smoke or an open flame:
-Contact the nearest office and inform any company employee immediately.
-               Activate the nearest manual call point located in the corridor by pressing the fire alarm button.
-               Leave the building through the nearest exit and proceed to the designated emergency assembly point located in the office's inner courtyard.
-If you hear a continuous alarm signal during your visit (alarm sounds) — stay calm and leave the building immediately through the nearest exit.
-In case of smoke, if possible, wet a handkerchief or any other piece of cloth, cover your respiratory organs (nose and mouth), and leave the premises by staying low to the floor.
-It is strictly forbidden to re-enter a smoke-filled room!
- After exiting the building, you must proceed to the designated emergency assembly point.
- In the event of an earthquake, do not panic. Do not attempt to leave the upper floors of the building during the initial tremors. Stairwells are more susceptible to structural failure; therefore, you should wait out the first shocks in more seismically stable areas of the building, such as central load-bearing walls, crossbeams, and structural columns. To facilitate subsequent evacuation, open and secure the doors so they do not jam shut. Once the initial tremors have ceased, leave the office and head to the emergency assembly point.
-In the unlikely event of a bomb threat or explosion risk, you will receive further instructions from the security service or office staff.
-Please remember:
- The use of elevators for evacuation during a fire or earthquake is strictly prohibited. Elevator cabins will automatically descend to the first floor, the doors will open, and the elevators will be locked. 16b. - If you are in an elevator when the alarm sounds, exit at the nearest floor, leave the building immediately, and proceed to the assembly point.
-The Operator has implemented a methodology for recording and analysing near-miss incidents. Hazard Observation Cards (HOC/KNO) are available in the corridors on each floor near the elevators. If you observe any unsafe actions, conditions, or near-miss incidents, please fill out a Hazard Observation Card. The completed form should be submitted to the Process Safety and Labour Protection Department. Office visitors may submit their cards through the employee accompanying them. The card will then be registered in the HOC/KNO logbook.
-With this information, your visit to the office of "LUKOIL Uzbekistan Operating Company" will be convenient, comfortable, and safe.
-
+OCCUPATIONAL HEALTH, SAFETY, AND INDUSTRIAL SECURITY BRIEFING AT THE PRODUCTION FACILITIES OF THE KANDYM GAS PROCESSING COMPLEX
+Limited Liability Company "LUKOIL Uzbekistan Operating Company"
+The Kandym Group license area includes the following fields the Kandym, Akkum, Parsankul, Kuvachi-Alat, Khoji, and West Khoji sections—are located in the Karakul District of the Bukhara Region of the Republic of Uzbekistan. The largest of these fields is Kandym. The total development area exceeds (1,142.3 sq. km).
+The site borders Turkmenistan to the south and southwest of the field area. The city of Gazli is situated fifty kilometres to the north of the area. Nearest towns are Karakul and Alat are located 30 kilometres from the southeastern boundary of the site.
+The Amu Darya River flows through the territory of Turkmenistan at twenty-five kilometres to the southwest of the fields. It serves as a source of natural surface water. Additionally, there is an artificial wastewater discharge lake known as "Solenoye," from which the main spillway channel originates.
+CLIMATIC, PHYSICAL, AND GEOGRAPHICAL CHARACTERISTICS OF THE AREA OF THE KANDYM GAS PROCESSING COMPLEX
+The Kandym Gas Processing Complex is situated in the Karakul District of the Bukhara Region, in the southwestern portion of the Kyzylkum Desert. The area is gently undulating plain, extensively covered with barchan-type sand dunes. These dunes are either mobile or only partially stabilized by vegetation. Due to frequent strong winds, the sands migrate, forming sand drifts. The field and plant areas are served by public roads; occasionally, unpaved (dirt) roads are encountered, winding between the barchans.
+The climate in this region is sharply continental, distinguished by low precipitation, high summer temperatures reaching up to 45°C, and low winter temperatures dropping to minus 25°C. Low winter temperatures lead to the freezing of the upper soil layer, which impairs its hydro physical properties and impedes cleaning and flushing processes. Coupled with low humidity and frequent winds, this increases the evaporation of moisture from the soil layers and facilitates soil salinization.
+There is no permanent hydrographic network within the territory of the Kandym group of fields. Only a well-developed drainage network and discharge collectors are noted within its boundaries. The most significant among these are the Main Karakul Collector and the Central Bukhara Collector within the Kandym sector. Water supply is provided by the Amu Darya River, which is separated from the field by a belt of ridged sands impassable for motor vehicles, and the Zarafshan River, which flows twenty kilometres southeast of the field and dries up completely during the summer period. Water supply for the KANDYM GAS PROCESSING COMPLEX is facilitated through a system of water intake facilities installed on the left bank of the Amu-Bukhara Machine Canal (ABMC-II), located at 53 km from the Gas Processing Plant (GPP).
+Movable and immovable material objects, monuments, ensembles, and artifacts of historical, cultural, or artistic value may be accidentally discovered within the work area. According to the "INSTRUCTIONS FOR ENSURING THE PRESERVATION OF CULTURAL HERITAGE SITES DURING THE PERFORMANCE OF PRODUCTION OPERATIONS"
+a set of procedures has been developed to be adopted by the Operator for the purpose of protecting and preserving cultural heritage sites located within the territory of the production facilities, as well as in the event of accidental archaeological discoveries during the performance of works at the Operator's sites. The development and implementation of the project must be carried out in such a manner as to prevent adverse impacts on the regional cultural heritage. Production operations at the site have been designed with a focus on minimizing potential adverse impacts on cultural heritage sites.
+KANDYM GAS PROCESSING COMPLEX
+The project comprises the following systems:
+    1. Gas Gathering System
+    2. Kandym Gas Processing Plant (GPP)
+    3. Auxiliary Production Facilities System
+    4. Complex Infrastructure Facilities System
+5. GAS GATHERING SYSTEM
+The system consists of Well Pads connected to Cluster Pads, which in turn are connected to the nearest Gathering Stations. Pipelines from the CLUSTER PADS are routed to the GATHERING STATIONS, and pipelines from the GATHERING STATIONS are routed to the Gas Processing Plant.
+Pipelines from GATHERING STATIONS 1 and 2 for the Kandym field are connected directly to the GAS PROCESSING PLANT. In the future, GATHERING STATION 4 (for the Khoji and West Khoji fields) will be connected to the pipeline of GATHERING STATION 3 (for the Akkum–Parsankul fields) and routed via a single pipeline to the Gas Processing Plant.
+Scraper launching and receiving units (pig launchers/receivers) for the CLUSTER PAD — GATHERING STATION and GATHERING STATION — GAS PROCESSING PLANT pipelines are provided at Cluster Pads 2 and 4 of Gathering Station 2, as well as on the pipelines from Gathering Stations 1 and 2 leading to the Gas Processing Plant.
+KANDYM GAS PROCESSING PLANT – KANDYM GPP
+The production zone of the plant includes two process trains with a capacity of 4.05 billion m3 of gas per year each. Each train consists of a Gas Production, Treatment and Dehydration Unit and a Sulphur Recovery Unit. Common to the two process trains are the Gas and Stable Condensate Treatment Unit and the Finished Product Shipping Unit. Also common to the two process trains is the Heat and Water Supply Shop. Process control is carried out from the central control panel located in the central operator building.
+The Gas Processing Plant produces sales gas, stable condensate, and sulphur.
+Outside the main production zone, auxiliary units, structures and systems of the Gas Processing Plant are located:
+• process water treatment system
+• heat and steam supply system
+• instrument air system
+• technical air and nitrogen system
+• fire water supply system
+• domestic and potable water supply system
+• wastewater treatment system
+• power supply substations
+• process water treatment system
+• heat and steam supply system
+• instrument air system
+• technical air and nitrogen system
+• fire water supply system
+• domestic and potable water supply system
+• wastewater treatment system
+• power supply substations
+• boiler house
+• central operator building, which houses the central control room
+• Chemical analytical laboratory
+• buildings and structures of Information Technology and communication systems
+• water intake facilities, consisting of a water pipeline with a length of 53 km and a water intake structure outside the plant
+• central operator building, which houses the central control room
+• Chemical analytical laboratory
+• buildings and structures of Information Technology and communication systems
+• water intake facilities, consisting of a water pipeline with a length of 53 km and a water intake structure outside the plant.
+    1. SYSTEM OF AUXILIARY-PRODUCTION FACILITIES
+This system of objects is located in the pre-factory area and includes:
+• Repair and mechanical workshop
+• Workshop for the repair of instrumentation and electrical equipment
+• Substation and diesel power station
+• Car canopy
+• Heated garage
+• Closed bus garage
+• Gas rescue station
+• Fire station
+• Warehouse buildings
+• Water supply and plumbing facilities
+• Fuel station
+Also, in the pre-factory area, there is the Main Administrative Building, a medical centre, and an emergency shelter.
+    2. INFRASTRUCTURE SYSTEM OF THE COMPLEX
+These are external infrastructure objects necessary for the operation and maintenance of the factory. The integrated residential complex includes:
+• Residential area with 50 dormitories for 1200 people
+• Administrative and utility zone
+• Technical zone
+• Fire station
+• Parking lot for cars and buses
+• Boiler house and pump station for fire and potable water supply
+• Repair and mechanical section
+All employees of the Kandym Gas Processing Complex and subcontracting organizations are provided with high-quality bottled drinking water and food products. Regular sanitary and hygiene control is organized at the KGP facilities.
+IT IS PROHIBITED ON THE TERRITORY OF DORMITORIES, BUILDINGS, AND FACILITIES TO:
+• Place compressed and liquefied gas cylinders, as well as barrels with easily flammable and combustible liquids, on open areas and in courtyards
+• Smoke outside designated areas
+• Build fires
+• Throw unextinguished coal and ash near buildings
+• Remove fire doors and door leaves in corridors as provided by the project
+• Dismantle fire and smoke barriers
+• Store flammable and combustible liquids, fire-hazardous materials, and substances in corridors and residential rooms
+• Use flammable liquids for washing clothes and cleaning floors
+• Leave electrical appliances under voltage, electrical networks, lighting, televisions, and radios turned on when leaving rooms
+• Perform fire-related work without first clearing the welding site of combustible materials and without ensuring the site is equipped with primary firefighting equipment
+• Work in the boiler room, pump station, and repair-mechanical section without personal protective equipment.
+ON PRODUCTION, THE MAIN SOURCES OF DANGER ARE THE FOLLOWING TYPES OF WORK:
+• Drilling and major repairs of operating wells
+• Repair work on pipelines and technological equipment
+• Geophysical work
+• Seismic exploration work
+• Construction work
+• Operation of technological equipment
+• Operation of vessels and pipelines under pressure
+ON FIRE-HAZARDOUS OBJECTS, THE FOLLOWING ACTIONS ARE PROHIBITED:
+• Using open flames or smoking
+• Wearing shoes with metal horseshoes or nails
+• Using mobile phones and other radio-electronic devices that are not explosion-proof in Operator rooms classified as categories A, B for fire and explosion hazards, and in explosive zones B-1, B-1a, B-1g, B-2. These zones are in rooms where explosive mixtures may form under normal operating conditions, as well as spaces near outdoor installations containing combustible gases and flammable liquids
+THE GREATEST DANGERS AND RISKS ON PRODUCTION FACILITIES INCLUDE:
+• Equipment whose depressurization can lead to uncontrolled emissions of hazardous substances
+• Formation fluids containing hydrogen sulphide, which are under pressure in wells, pipelines, and technological equipment
+• Unfavourable sanitary and epidemiological conditions, including potential bites from reptiles, amphibians, and insects
+• High-risk work – working at heights, climbing works, lifting operations near power lines, earthworks, fire-related, gas-dangerous work, and work in electrical installations
+Visitors to production facilities are only allowed if accompanied by the responsible person for the facility or by a specially assigned worker for this purpose.
+The greatest danger to humans is hydrogen sulphide, which is present in the extracted raw materials. It is a colourless gas with the smell of rotten eggs and is a strong neuroparalytic poison. Its ignition temperature is 246°C. A noticeable smell of hydrogen sulphide is noted at concentrations up to 2 mg per cubic meter or 1.5 ppm. A significant Odor occurs at 4 mg per cubic meter or 3 ppm. A distressing Odor occurs from 7 to 11 mg per cubic meter or from 5 to 8 ppm. Hydrogen sulphide exposure causes severe poisoning, the outcome of which depends on the speed of intervention.
+At concentrations of 200-260 mg per cubic meter or 140-180 ppm, eye burning and nausea are observed. Dangerous poisoning occurs within 15–20 minutes at a concentration of 750 mg per cubic meter or 500 ppm. At a concentration of 1000 mg per cubic meter or 700 ppm and above, death occurs almost instantly. If you feel symptoms of hydrogen sulphide poisoning, immediately call for emergency medical assistance. The maximum permissible concentration of hydrogen sulphide in the air of the working zone, mixed with hydrocarbons, is 2.84 mg/cubic meter or 2 ppm. In residential areas, it is 0.008 mg/cubic meter or 0.005 ppm.
+PERSONAL GAS DETECTOR
+Each worker on the territory of the Gas Processing Plant and Gas Collection System facilities is provided with all necessary personal protective equipment. The personal gas detector warns about hydrogen sulphide concentrations above the established permissible concentration limit and serves as a personal safety device.
+Upon receiving the gas detector, conduct an external inspection. The body and display must not be damaged! The gas detector has a steel clip and is attached to clothing. The detector should be secured to the upper, outer pocket of the protective clothing.
+To activate it, press the power button. After performing the self-diagnosis test, the gas detector will begin normal operation.
+The gas detector is equipped with the following hydrogen sulphide measurement ranges:
+• 2 ppm, which corresponds to 2.84 mg/m³. This is the permissible concentration limit for the working zone air, the first trigger threshold. A single sound and light signal will activate, and the display will show the measured hydrogen sulphide concentration value and the symbol "A1".
+• 5 ppm, which corresponds to 7.1 mg/m³. This is the second trigger threshold for the permissible concentration limit of the working zone air. A double sound and light signal will activate, and the display will show the measured hydrogen sulphide concentration value and the symbol "A2".
+You must immediately leave the work zone while activating the "PPE"!
+Employees of the Kandym Gas Processing Complex are provided with all necessary personal protective equipment. For respiratory protection, an isolating self-rescuer type PDU-5M or PDU-5P is used.
+TECHNICAL CHARACTERISTICS OF THE PDU-5M/5P SELF-RESCUER
+The PDU-5 is an isolating breathing apparatus for single use. When activated, it isolates the human respiratory and visual organs from the surrounding environment, creating a breathing circuit in which the gas mixture (GDS) is maintained, suitable for breathing. The PDU-5 is designed for continuous wear in hazardous production areas. The plastic body ensures the device's high durability. Upon receiving it, check the seal's condition and ensure the case is free from damage. If defects are found, the PDU-5 self-rescuer should be replaced with a new one.
+RULES FOR USING THE PDU-5 SELF-RESCUER
+To use the self-rescuer, follow these steps:
+• Remove the helmet
+• Take the PDU-5 and quickly place the shoulder strap around your neck
+• Open the case
+• Hold the mask in place and pull out the working part by the neck strap
+• Unfold the working part, put it on, and adjust the neck strap
+• Inhale and hold your breath
+• Put the mask on your head
+• Activate the regenerative cartridge by pressing the metal cap of the starter ampoule fully
+• Exhale and continue breathing through the PDU-5
+• After connecting, tighten the head straps starting from the lower ones, then put on and adjust the neck strap. The correct use of the PDU-5 is confirmed by the inflation of the breathing bag and the warm gas mixture being inhaled.
+You must leave the emergency zone quickly and steadily. When evacuating from a gas-contaminated zone, the PDU-5 should only be used if the personal gas detector reads 5 ppm or higher.
+EMERGENCY ACTION PROCEDURE
+At the KANDYM GAS PROCESSING COMPLEX, two main alarm signals are used in emergency situations:
+• Fire hazard!
+• Gas hazard!
+As one of the most important measures aimed at protecting people in possible emergency situations, temporary evacuation of workers from the danger zone is provided. The evacuation is carried out considering weather conditions, including wind direction, speed, and forecasted changes in it. To determine evacuation routes, it is necessary to determine wind directions. Exit from the gas-contaminated zone should be strictly perpendicular to the wind direction.
+At the Gas Processing Plant and in the Pre-Factory Zone, seven personnel assembly points are provided, to which evacuation should occur depending on the wind direction.
+Upon receiving the alarm signal, personnel who have chosen the evacuation route through the northwest and southwest gates of the GPP must independently remove the fixing device and open the gates towards themselves at the first gate checkpoint, and at the second checkpoint, they should push the gates away from themselves forward and open them. Production facilities and sites are equipped with special loudspeaker communication devices for operational communication with the control room engineer. If necessary, any worker can use the communication device to transmit information.
+In the event of an emergency situation, a set of actions is taken:
+• Safe shutdown of equipment
+• Evacuation of personnel from production facilities
+• Notification of emergency rescue services
+• Deployment of emergency rescue services to the accident area
+• Entry of operational personnel of emergency rescue services to conduct reconnaissance, evacuate the injured, eliminate and localize the emergency
+• Personnel proceeding to the assembly points
+• If you are driving a vehicle within the territory of the Gas Processing Plant, upon the activation of the alarm signal, you must stop and park the vehicle on the roadway in such a way that it does not obstruct the emergency service vehicles. You must turn off the engine. Put on goggles and a protective helmet. Take the self-rescuer. Exit the vehicle and head to the nearest assembly point.
+• At the assembly points, the evacuated personnel are counted, and the section leaders report on the results of the evacuation.
+• Upon arrival at the assembly point, you must immediately report to your Supervisor via radio which assembly point you are at. If you do not have a radio, ask any supervisory employee at the assembly point to relay your information to the dispatcher of the Kandym Gas Processing Complex.
+To maintain operational readiness of emergency response procedures at KGP, training alarms and training sessions are organized according to the schedule. Regular checks of special equipment and mechanisms are carried out. In addition, training in first aid rules is conducted, and operational medical services are organized at KGP.
+Rules for Using Firefighting Equipment
+Rules for Using Fire Extinguishers:
+• Bring the fire extinguisher to the fire source, no closer than three meters, from the upwind side.
+• Break the seal.
+• Pull the pin by the ring.
+• Press the lever on the body.
+• Empty the fire extinguisher by pressing the lever.
+PROCEDURE FOR FILLING OUT THE KNO (Incident Reporting Form)
+At the production facilities of the Operator, a method of accounting and analysis of incidents without consequences is in place. KNO forms for filling out are located on informational boards near the boxes for collecting KNOs. In case of detecting hazardous actions, conditions, or incidents without consequences, the observer fills out a hazard observation card. The completed KNO form is placed in the KNO collection box. Then, the representative of the Fire Safety Service (PBS), Occupational Health and Safety (OHS), and Environmental Protection (EO) of the production facility opens the box and processes the KNOs filled out by the observers, subsequently entering them into the accounting journal.
+Rules for Using Firefighting Equipment
+Rules for Using Fire Extinguishers:
+• Bring the fire extinguisher to the fire source, no closer than three meters, from the upwind side.
+• Break the seal.
+• Pull the pin by the ring.
+• Press the lever on the body.
+• Empty the fire extinguisher by pressing the lever.
+PROCEDURE FOR FILLING OUT THE KNO (Incident Reporting Form)
+At the production facilities of the Operator, a method of accounting and analysis of incidents without consequences is in place. KNO forms for filling out are located on informational boards near the boxes for collecting KNOs. In case of detecting hazardous actions, conditions, or incidents without consequences, the observer fills out a hazard observation card. The completed KNO form is placed in the KNO collection box. Then, the representative of the Fire Safety Service (PBS), Occupational Health and Safety (OHS), and Environmental Protection (EO) of the production facility opens the box and processes the KNOs filled out by the observers, subsequently entering them into the accounting journal.
+REMEMBER!
+Following the measures outlined in this instruction will help preserve your life and health.
