@@ -1,0 +1,203 @@
+INDUSTRIAL SAFETY BRIEFING FOR THE FACILITIES OF "GISSAR" OGPD (OIL AND GAS PRODUCTION DEPARTMENT)"LUKOIL Uzbekistan Operating Company" LLC
+1. BRIEF CHARACTERISTICS OF THE AREA
+The "South-West Gissar" license area is located in the mountainous terrain of the Guzar and Dehkanabad districts of the Kashkadarya region. The contract area covers approximately 190 square kilometers and includes the following fields: Koshkuduk, Akkul, Adamtash, Gumbulak, Dzharkuduk-Yangi Kyzylcha, Pachkamar, and Amanata. The nearest railway stations are in the settlements of Tashguzar and Dehkanabad.
+The license area belongs to Climate Zone I. The climate of this territory is defined as sharply continental, characterized by low precipitation, high temperatures in summer and low temperatures in winter, as well as low relative humidity. Hazardous hydrogeological phenomena, such as landslides and mudflows, are possible within the work area. Mudflow activity is particularly intense in the Kichik Uradarya river basin, where flows occur almost annually during the April–May period.
+The prevailing wind direction is northerly, occasionally turning into dust storms. The terrain is mountainous with a highly rugged hilly surface; the soil is highly saline and possesses a high degree of corrosive activity toward metals.
+The administrative center of the "Gissar" OGPD is the Dzharkuduk Field Support Base, located 14.5 km from the M-39 "Tashkent-Termez" highway, 55 km from the district center (Guzar), and 111 km from the regional center (Karshi). The Dzharkuduk Field Support Base includes a shift camp, an administrative building, a mechanical repair shop, vehicle parking, a metrology laboratory, a boiler room, a water treatment and biological sewage treatment station, a fuel dispensing station (FDS), and a material and technical supply base for the equipment and materials of the "Gissar" OGPD production facilities.
+The Fuel Dispensing Station (FDS) is located on the territory of the Dzharkuduk Field Support Base and is intended for refueling light vehicles, trucks, specialized machinery, and process equipment serving the "Gissar" OGPD.
+The FDS consists of the following main equipment:
+    • Underground diesel fuel storage tanks;
+    • Underground emergency tank;
+    • Transfer pump;
+    • Tanker truck unloading area;
+    • Stormwater treatment facilities;
+    • Dual-hose fuel dispenser;
+    • Canopy;
+    • Operator’s room;
+    • Two floodlight masts with lightning rods;
+    • Metal fencing with gates and a wicket door;
+    • Firefighting system, fire hydrants, and fire boards;
+    • Underground utility system, communication, sewerage, and power supply systems.
+The products dispensed at the FDS are diesel fuel and gasoline.
+Diesel Fuel is a flammable liquid product and is classified as a Hazard Class IV substance based on its toxicological characteristics. It is a mixture of hydrocarbons that, when exposed to the human body, cause acute and chronic diseases and poisoning. Inhalation of high concentrations of diesel fuel vapors can cause acute poisoning: dizziness, unsteady gait, a state of intoxication, tremors of the hands and feet, and occasionally fainting, rapid heartbeat, general weakness, and nausea. Diesel fuel vapors mixed with oxygen form an explosive mixture.
+Gasoline is a flammable liquid product and is classified as a Hazard Class IV substance based on its toxicological characteristics. Its vapors are toxic to the human body. Ingestion of the substance or inhalation of its concentrated vapors can lead to serious poisoning.
+BRIEF CHARACTERISTICS OF THE SOUTH-WEST GISSAR FIELDS
+The gas condensate fields within the South-West Gissar license area are characterized by complex geological structures, high reservoir pressure, and significant gas and condensate content containing impurities of hydrogen sulfide (H₂S), as well as other toxic and corrosive components.
+Currently, industrial development is underway at the following gas condensate fields: Dzharkuduk-Yangi Kyzylcha, Gumbulak, and Adamtash. Production from gas wells is transported via individual flowlines to gas gathering stations: GSP-1 Dzharkuduk, GSP-1, 2, 3 Gumbulak, GSP-1, 2 Adamtash, and the inlet manifold block of the Dzharkuduk GTPP (Gas Treatment Preparation Plant). Subsequently, it is transported via gas and condensate pipelines to the Dzharkuduk GTPP for further delivery to the "Shurtan" Oil and Gas Production Department's main facilities.
+1. THE FIELD CONSISTS OF THE FOLLOWING MAIN SYSTEMS:
+1. Gas Gathering Station No. 1 (GSP-1) at the Dzharkuduk field, including the natural gas production and gathering system:
+    • Seven (7) wells, specifically: Nos. 67, 68bis, 69, 70, 72, 74, 75;
+    • Flowlines from the wells to the Gas Gathering Station;
+    • Inlet manifold;
+    • Two-phase separator;
+    • Fuel gas treatment unit;
+    • Flare system;
+    • Drainage system.
+2. Gas Gathering Stations Nos. 1, 2, 3 at the Gumbulak field and Gas Gathering Stations Nos. 1, 2 at the Adamtash field, including the natural gas production and gathering systems:
+    • Eleven (11) wells and thirteen (13) wells respectively.
+    • Inlet manifolds.
+    • Three-phase metering (test) separators.
+    • Diethylene glycol (DEG) injection units.
+    • Corrosion inhibitor injection units.
+    • Flare systems.
+    • Drainage systems.
+    • Nitrogen distribution systems.
+    • Pig launcher units (cleaning device launching units);
+    • Pig receiver units (cleaning device receiving units);
+    • Block of linear facilities including a flare system and a drainage tank.
+"Adamtash" Gas Pre-treatment Unit (GPU) with a natural gas production and gathering system:
+    • Four (4) wells, specifically: Nos. 26, 27, 38, 39;
+    • Inlet manifold;
+    • Three-phase test separator;
+    • Slug catcher;
+    • Inlet separator;
+    • Unstable condensate separator;
+    • Unstable condensate buffer tank;
+    • Unstable condensate storage tanks with unstable condensate export pumps;
+    • DEG (diethylene glycol) and methanol injection unit;
+    • Corrosion inhibitor injection unit;
+    • Instrument air and technical air system (with receivers);
+    • Nitrogen system (with receivers);
+    • Fuel gas treatment and distribution unit;
+    • Flare system;
+    • Drainage system;
+    • Horizontal flare unit;
+    • Emergency diesel generator system;
+    • Pig launcher unit;
+    • Pig receiver units.
+"Adamtash" Booster Compressor Station (BCS) is located on the territory of the "Adamtash" Gas Pre-treatment Unit (GPU).
+The BCS includes two high-pressure compressors (one duty, one standby) equipped with electric motors and VFD (Variable Frequency Drive) systems. The compressor unit delivers gas to a common outlet header. In the second stage, it is planned to reduce the gas inlet pressure at the BCS to 60.3 bar. Consequently, at the "Adamtash" BCS, gas compression will be performed in a two-stage mode. Compressor units with a two-stage piping configuration (2 duty + 2 standby), with an outlet pressure of 120.8 bar, will deliver gas to the common outlet header.
+The single-stage configuration of the Booster Compressor Station includes:
+    • Connection unit and inlet separators;
+    • Gas compression system;
+    • Lube oil system;
+    • Dry gas seal system;
+    • Compressor power supply system;
+    • Instrumentation air and process nitrogen systems;
+    • Fuel gas supply and ventilation systems;
+    • Flare and drainage systems.
+Brief Description of the Technological Process and Facility Flow Scheme
+Process gas from the Adamtash GPU supply manifold enters the BCS inlet header and is then directed through two identical lines to the inlet separators to remove liquids and solids before compression. The separated liquid phase collects in the bottom section of the separators and is then sent to the Adamtash GPU for separation.
+After the inlet separator, the gas enters the compressor suction. Following compression, the gas is directed to the discharge air-cooled heat exchanger (ACHE) unit. The gas outlet temperature after the ACHE is maintained between 32–55°C. The cooled gas from the outlet ACHE is fed into an outlet separator to remove condensed liquids. Subsequently, the gas is directed into the Adamtash GPU – Dzharkuduk GTPP pipeline via the BCS outlet header. The liquid collected in the inlet separator is diverted to the hydrocarbon liquid collection manifold and then sent to the Adamtash GPU for separation.
+2. "Gumbulak-Dzharkuduk" Gas Treatment Preparation Plant (GTPP) with a Natural Gas Production and Gathering System:
+    • Six (6) wells, specifically: Nos. 2jk, 7bis, 63, 64, 65, 73;
+    • Inlet manifold;
+    • Three-phase test separator;
+    • Slug catchers A and B;
+    • High-pressure separators A and B;
+    • Medium-pressure separator heaters A and B;
+    • Medium-pressure separators A and B;
+    • Low-pressure separators A and B;
+    • Gas/Gas heat exchangers A and B;
+    • Low-temperature separators A and B;
+    • Gas/Liquid heat exchangers A and B;
+    • Unstable condensate buffer tank;
+    • Final stage separation unit (Stage I and Stage II degassers);
+    • Condensate stabilization unit (fractionation column, column reboiler);
+    • Off-gas compressor station;
+    • DEG (diethylene glycol) storage, regeneration, and injection unit;
+    • Corrosion inhibitor and anti-foaming agent injection unit;
+    • Instrument air and technical air generation and supply unit (with receivers);
+    • Nitrogen generation and supply unit (with receivers);
+    • Flare system;
+    • Drainage system;
+    • Hot oil preparation and supply unit with fired heaters;
+    • Stable condensate storage tanks with stable condensate export pumps;
+    • Horizontal flare unit;
+    • Fuel gas treatment and distribution unit.
+ Natural Gas Transportation System: From GSP-1 "Dzharkuduk" to the Dzharkuduk GTPP. Natural Gas and Unstable Condensate Transportation System: From the Adamtash GPU to the Dzharkuduk GTPP. Dry Gas Transportation System: From the Dzharkuduk GTPP to the Shurtan OGPD main facilities. Stable Condensate Transportation System: From the Dzharkuduk GTPP to the Shurtan OGPD oil loading rack.
+Automated Process Control System (APCS): 
+Process parameter monitoring is performed in automated mode from the Central Control Room (CCR). 
+BRIEF CHARACTERISTICS OF MAIN OPERATIONS AND RISKS
+The greatest hazards and risks at the production facilities are posed by:
+    • Hydrocarbon-containing liquids under pressure within wells and process equipment;
+    • High-risk operations: Hot work, gas-hazardous work, excavation, combined and simultaneous operations, work at height, steeplejack work, radiographic testing, work on electrical installations, and crane operations near power lines;
+    • Adverse sanitary and epidemiological conditions, including potential bites from reptiles and insects.
+INSERT
+ The greatest danger to humans is posed by Hydrogen Sulphide (H₂S) present in the extracted raw material. It is a colourless gas with a "rotten egg" Odor and a potent neuroparalytic poison, only 5–10 times less toxic than hydrocyanic acid. It burns with a bluish flame, forming water and sulphur dioxide. Odor threshold: Noticeable at concentrations up to 2 mg/m³. Significant Odor: At 4 mg/m³. Distressing Odor: From 7 to 11 mg/m³. Hydrogen sulphide poisoning causes severe illness, the outcome of which depends on the speed of emergency response. At concentrations of 200–260 mg/m³, symptoms include burning in the eyes, a metallic taste in the mouth, nausea, and impaired consciousness/respiration. Dangerous poisoning occurs within 15–20 minutes at a concentration of 750 mg/m³. At concentrations of 1000 mg/m³ and above, death is almost instantaneous. In case of hydrogen sulphide poisoning, emergency medical services must be called immediately. Permissible Exposure Limit (PEL) for H₂S in the air of the working zone (in mixture with hydrocarbons): 3 mg/m³. PEL in residential areas: 0.008 mg/m³.
+Main preventive measures are focused on:
+    1. Chemical inhibition and electrochemical protection of equipment.
+    2. Monitoring of technological processes and corrosion rates.
+    3. Regular inspections and planned preventive maintenance (PPM) of equipment.
+    4. Training and regulated authorization of personnel for high-risk operations, including training in safe work methods, the use of Personal Protective Equipment (PPE), and the operation of primary firefighting equipment.
+    5. Training in first aid procedures and the organization of prompt medical services.
+    6. Provision of high-quality drinking water and food, as well as facilities and means for their proper storage.
+    7. Organization of regular sanitary and hygienic control.
+    8. Implementation and maintenance of emergency response procedures.
+    9. Conducting emergency drills and regular inspections of construction machinery and mechanisms.
+THE PRODUCT WITHIN THE PRODUCTION EQUIPMENT IS HIGHLY FLAMMABLE AND EXPLOSIVE!
+Raw materials and auxiliary chemical reagents are organic compounds consisting primarily of carbon and hydrogen. The impact of hydrocarbons on the human body varies depending on the hydrocarbon class. Liquid hydrocarbons, such as unstable and stabilized gas condensate, can cause dryness and irritation upon skin contact. Vapours of liquid hydrocarbons generally possess narcotic properties and cause poisoning. Symptoms include shortness of breath, headache, dizziness, nausea, and vomiting. Mental health disturbances are also possible. Inhalation of high doses of harmful gases can lead to loss of consciousness, cardiovascular failure, and death.
+THE MAIN POTENTIAL SOURCES OF DANGER ARE THE FOLLOWING TYPES OF WORK:
+    • Operation of wells and pipelines.
+    • Maintenance and repair work on pipelines and technological equipment.
+    • Drilling and workover (overhaul) of production wells.
+    • Geophysical operations.
+    • Seismic survey operations.
+    • Construction work.
+
+THE FOLLOWING ARE PROHIBITED AT FIRE AND EXPLOSION HAZARDOUS FACILITIES:
+    • Using open flames or smoking.
+    • Using mobile phones or other electronic devices that are not certified as explosion-proof (intrinsically safe).
+    • Wearing footwear with metal plates, studs, or nails.
+MAIN RISK MITIGATION METHODS
+When working in areas where concentrations of harmful gases, vapours, or dust may exceed permissible sanitary standards, employees are provided with appropriate Respiratory Protective Equipment (RPE).
+RULES FOR USING THE "MINISCAPE" SELF-RESCUER
+To use the Miniscape self-rescuer, follow these steps:
+    1. Open the case by pulling the tab on the case lid.
+    2. Pull out the escape filter.
+    3. Place the mouthpiece in your mouth so that its flanges are between your gums and lips and grip the bite tabs firmly with your teeth.
+    4. Spread the pads of the nose clip with both hands and place it on your nose so that both nostrils are completely sealed.
+    5. Leave the danger zone immediately.
+RULES FOR USING THE "GDZK-EN" SELF-RESCUER
+    1. Remove the GDZK-EN from it carrying bag.
+    2. Tear open the sealed bag along the notch.
+    3. Stretch the neck seal (neck dam) wide.
+    4. Pull the hood over your head.
+    5. Adjust the half-mask by hand so that it covers your nose and mouth and fits under your chin.
+    6. Adjust the hood (the head harness strap should be at the lower part of the back of the head; pull the harness forward until the half-mask fits snugly against the face).
+    7. Leave the danger zone.
+A single-use isolating-type (self-contained) self-rescuer is used as respiratory protective equipment. While present at a hazardous production facility, it is mandatory to always wear a personal gas detector and a self-rescuer.
+TECHNICAL SPECIFICATIONS OF THE PDU-5P SELF-RESCUER:
+1.Duration of protective action: * At least 20 minutes under medium physical load (performing moderate work or evacuating at a walking pace).
+2. At least 7 minutes under heavy physical load (performing heavy labour or rapid evacuation/running).
+3.At least 70 minutes in a state of relative rest (while waiting for rescue).
+SELF-RESCUER OPERATING RULES:
+Upon receiving a self-rescuer, you must check the condition of the case for cracks, punctures, dents, or other damage, and verify the presence of the seal and the shoulder/waist strap attachment system. If any defects are found, replace the self-rescuer with a functional one. The self-rescuer can be carried over the shoulder, on the hip, behind the back, or on the belt. The strap length is adjusted using a buckle. To use the self-rescuer, perform the following:
+remove your hard hat, bring the PDU-5 to the "ready" position using the self-tightening buckles, open the case by tearing off the coupling tape using the ring, hold the mask and extract the working unit by pulling its neck strap, unfold the working unit, take a breath and hold it, place the mask over your head, activate the regenerative cartridge by pressing the metal cap of the starter ampoule all the way down, exhale, and continue breathing into the PDU-5.
+After connecting, tighten the mask harness straps starting from the bottom ones. Evidence of the correct use of the PDU-5 is the inflation of the breathing bag and the delivery of a warm breathing gas mixture upon inhalation. You must leave the emergency zone with a fast and steady pace.
+Rules for using the "Dräger PARAT 3100" self-rescuer
+    1. Grasp the tab and break the seal
+    2. Remove the adhesive (sealing) tape
+    3. Open the case, remove the device, and put it on as follows:
+-hold the half-mask by the head straps and place it over your nose and mouth, fitting your chin into the designated indentation.
+-fasten the head straps behind your head.
+-leave the contaminated zone immediately.
+In the event of a leak, press the mask firmly in the nose area.
+Note: Beards, sideburns, and deep scars cause leaks. For such individuals, a filtering self-rescuer is not suitable!
+PERSONAL GAS DETECTOR.
+It is designed to warn of hydrogen sulphide concentrations exceeding the established Permissible Exposure Limit (PEL).
+Upon receiving the gas detector, perform a visual inspection. There should be no damage to the integrity of the casing or the display. The gas detector is equipped with a steel clip and is to be attached to clothing. To activate the gas detector, press the button. After the gas detector completes its self-diagnostic test, normal operation will begin.
+The following measurement ranges for hydrogen sulphide are set on the gas detectors:
+    • 2 ppm, which corresponds to 2.84 mg/m³ (PEL for the working zone air) — 1st alarm threshold. This triggers a low-level alarm: a slow audible signal, slow flashing of the ALARM indicator, and a slow vibration signal;
+    • 5 ppm, which corresponds to 7.1 mg/m³ (PEL for the working zone air) — 2nd alarm threshold. This triggers a high-level alarm: a rapid audible signal, rapid flashing of the ALARM indicator, and a rapid vibration signal. In this case, you must deploy Respiratory Protective Equipment (RPE) and immediately leave the working zone.
+Two main audible alert signals are adopted on the territory of the "Gissar" OGPD:
+    • Fire Hazard!
+    • Gas Hazard!
+EVACUATION IN CASE OF FIRE OR GAS RELEASE.
+As one of the most critical measures aimed at ensuring the protection of people during potential emergency situations, the temporary evacuation of workers and the public from the hazardous contamination zone of the surface air layer is provided for in accordance with the Emergency Response Plan. Evacuation is carried out considering weather conditions, including wind direction, wind speed, and the forecast of their possible changes.
+To determine evacuation routes, it is necessary to identify the wind direction: you must exit the gas-contaminated zone strictly perpendicular to the wind direction.
+In the event of an emergency:
+    • Equipment is shut down
+    • Personnel are evacuated from production facilities
+    • Emergency services are notified and dispatched to the accident area: simultaneously, members of voluntary gas-rescue squads enter the accident zone to conduct reconnaissance and recover casualties
+    • Personnel proceed to the assembly point, and site supervisors report on the presence of subordinates
+    • Personnel are evacuated to a safe location
+    • After receiving permission to enter the territory, firefighters perform combat deployment, and specialized emergency services proceed to localize and eliminate the accident.
+Rules for Using Primary Firefighting Equipment 
+Rules for using fire extinguishers:
+    • bring the fire extinguisher to the fire source (no closer than 3 meters), break the seal, pull out the safety pin by the ring, press the lever on the body, and discharge the extinguisher by pressing the lever.
+
+HAZARD OBSERVATION CARD (HOC) FILING PROCEDURE.
+At the Operator's production facilities, a methodology for recording and analysing "near-miss" incidents (incidents without consequences) is in place. HOC forms are located on information stands near the HOC collection boxes. If unsafe acts, conditions, or near-miss incidents are detected, the observer shall fill out a Hazard Observation Card. The completed HOC form is to be placed in the HOC collection box. Subsequently, a representative of the facility’s HSE (Health, Safety, and Environment) Department opens the box and processes the submitted cards, followed by their entry into the registration log.
+REMEMBER! Compliance with the measures presented in this briefing will preserve your life and health.
+

@@ -1,168 +1,186 @@
-OCCUPATIONAL HEALTH, SAFETY, AND INDUSTRIAL SECURITY BRIEFING AT THE PRODUCTION FACILITIES OF THE KANDYM GAS PROCESSING COMPLEX
-Limited Liability Company "LUKOIL Uzbekistan Operating Company"
-The Kandym Group license area includes the following fields the Kandym, Akkum, Parsankul, Kuvachi-Alat, Khoji, and West Khoji sections—are located in the Karakul District of the Bukhara Region of the Republic of Uzbekistan. The largest of these fields is Kandym. The total development area exceeds (1,142.3 sq. km).
-The site borders Turkmenistan to the south and southwest of the field area. The city of Gazli is situated fifty kilometres to the north of the area. Nearest towns are Karakul and Alat are located 30 kilometres from the southeastern boundary of the site.
-The Amu Darya River flows through the territory of Turkmenistan at twenty-five kilometres to the southwest of the fields. It serves as a source of natural surface water. Additionally, there is an artificial wastewater discharge lake known as "Solenoye," from which the main spillway channel originates.
-CLIMATIC, PHYSICAL, AND GEOGRAPHICAL CHARACTERISTICS OF THE AREA OF THE KANDYM GAS PROCESSING COMPLEX
-The Kandym Gas Processing Complex is situated in the Karakul District of the Bukhara Region, in the southwestern portion of the Kyzylkum Desert. The area is gently undulating plain, extensively covered with barchan-type sand dunes. These dunes are either mobile or only partially stabilized by vegetation. Due to frequent strong winds, the sands migrate, forming sand drifts. The field and plant areas are served by public roads; occasionally, unpaved (dirt) roads are encountered, winding between the barchans.
-The climate in this region is sharply continental, distinguished by low precipitation, high summer temperatures reaching up to 45°C, and low winter temperatures dropping to minus 25°C. Low winter temperatures lead to the freezing of the upper soil layer, which impairs its hydro physical properties and impedes cleaning and flushing processes. Coupled with low humidity and frequent winds, this increases the evaporation of moisture from the soil layers and facilitates soil salinization.
-There is no permanent hydrographic network within the territory of the Kandym group of fields. Only a well-developed drainage network and discharge collectors are noted within its boundaries. The most significant among these are the Main Karakul Collector and the Central Bukhara Collector within the Kandym sector. Water supply is provided by the Amu Darya River, which is separated from the field by a belt of ridged sands impassable for motor vehicles, and the Zarafshan River, which flows twenty kilometres southeast of the field and dries up completely during the summer period. Water supply for the KANDYM GAS PROCESSING COMPLEX is facilitated through a system of water intake facilities installed on the left bank of the Amu-Bukhara Machine Canal (ABMC-II), located at 53 km from the Gas Processing Plant (GPP).
-Movable and immovable material objects, monuments, ensembles, and artifacts of historical, cultural, or artistic value may be accidentally discovered within the work area. According to the "INSTRUCTIONS FOR ENSURING THE PRESERVATION OF CULTURAL HERITAGE SITES DURING THE PERFORMANCE OF PRODUCTION OPERATIONS"
-a set of procedures has been developed to be adopted by the Operator for the purpose of protecting and preserving cultural heritage sites located within the territory of the production facilities, as well as in the event of accidental archaeological discoveries during the performance of works at the Operator's sites. The development and implementation of the project must be carried out in such a manner as to prevent adverse impacts on the regional cultural heritage. Production operations at the site have been designed with a focus on minimizing potential adverse impacts on cultural heritage sites.
-KANDYM GAS PROCESSING COMPLEX
-The project comprises the following systems:
-    1. Gas Gathering System
-    2. Kandym Gas Processing Plant (GPP)
-    3. Auxiliary Production Facilities System
-    4. Complex Infrastructure Facilities System
-5. GAS GATHERING SYSTEM
-The system consists of Well Pads connected to Cluster Pads, which in turn are connected to the nearest Gathering Stations. Pipelines from the CLUSTER PADS are routed to the GATHERING STATIONS, and pipelines from the GATHERING STATIONS are routed to the Gas Processing Plant.
-Pipelines from GATHERING STATIONS 1 and 2 for the Kandym field are connected directly to the GAS PROCESSING PLANT. In the future, GATHERING STATION 4 (for the Khoji and West Khoji fields) will be connected to the pipeline of GATHERING STATION 3 (for the Akkum–Parsankul fields) and routed via a single pipeline to the Gas Processing Plant.
-Scraper launching and receiving units (pig launchers/receivers) for the CLUSTER PAD — GATHERING STATION and GATHERING STATION — GAS PROCESSING PLANT pipelines are provided at Cluster Pads 2 and 4 of Gathering Station 2, as well as on the pipelines from Gathering Stations 1 and 2 leading to the Gas Processing Plant.
-KANDYM GAS PROCESSING PLANT – KANDYM GPP
-The production zone of the plant includes two process trains with a capacity of 4.05 billion m3 of gas per year each. Each train consists of a Gas Production, Treatment and Dehydration Unit and a Sulphur Recovery Unit. Common to the two process trains are the Gas and Stable Condensate Treatment Unit and the Finished Product Shipping Unit. Also common to the two process trains is the Heat and Water Supply Shop. Process control is carried out from the central control panel located in the central operator building.
-The Gas Processing Plant produces sales gas, stable condensate, and sulphur.
-Outside the main production zone, auxiliary units, structures and systems of the Gas Processing Plant are located:
-• process water treatment system
-• heat and steam supply system
-• instrument air system
-• technical air and nitrogen system
-• fire water supply system
-• domestic and potable water supply system
-• wastewater treatment system
-• power supply substations
-• process water treatment system
-• heat and steam supply system
-• instrument air system
-• technical air and nitrogen system
-• fire water supply system
-• domestic and potable water supply system
-• wastewater treatment system
-• power supply substations
-• boiler house
-• central operator building, which houses the central control room
-• Chemical analytical laboratory
-• buildings and structures of Information Technology and communication systems
-• water intake facilities, consisting of a water pipeline with a length of 53 km and a water intake structure outside the plant
-• central operator building, which houses the central control room
-• Chemical analytical laboratory
-• buildings and structures of Information Technology and communication systems
-• water intake facilities, consisting of a water pipeline with a length of 53 km and a water intake structure outside the plant.
-    1. SYSTEM OF AUXILIARY-PRODUCTION FACILITIES
-This system of objects is located in the pre-factory area and includes:
-• Repair and mechanical workshop
-• Workshop for the repair of instrumentation and electrical equipment
-• Substation and diesel power station
-• Car canopy
-• Heated garage
-• Closed bus garage
-• Gas rescue station
-• Fire station
-• Warehouse buildings
-• Water supply and plumbing facilities
-• Fuel station
-Also, in the pre-factory area, there is the Main Administrative Building, a medical centre, and an emergency shelter.
-    2. INFRASTRUCTURE SYSTEM OF THE COMPLEX
-These are external infrastructure objects necessary for the operation and maintenance of the factory. The integrated residential complex includes:
-• Residential area with 50 dormitories for 1200 people
-• Administrative and utility zone
-• Technical zone
-• Fire station
-• Parking lot for cars and buses
-• Boiler house and pump station for fire and potable water supply
-• Repair and mechanical section
-All employees of the Kandym Gas Processing Complex and subcontracting organizations are provided with high-quality bottled drinking water and food products. Regular sanitary and hygiene control is organized at the KGP facilities.
-IT IS PROHIBITED ON THE TERRITORY OF DORMITORIES, BUILDINGS, AND FACILITIES TO:
-• Place compressed and liquefied gas cylinders, as well as barrels with easily flammable and combustible liquids, on open areas and in courtyards
-• Smoke outside designated areas
-• Build fires
-• Throw unextinguished coal and ash near buildings
-• Remove fire doors and door leaves in corridors as provided by the project
-• Dismantle fire and smoke barriers
-• Store flammable and combustible liquids, fire-hazardous materials, and substances in corridors and residential rooms
-• Use flammable liquids for washing clothes and cleaning floors
-• Leave electrical appliances under voltage, electrical networks, lighting, televisions, and radios turned on when leaving rooms
-• Perform fire-related work without first clearing the welding site of combustible materials and without ensuring the site is equipped with primary firefighting equipment
-• Work in the boiler room, pump station, and repair-mechanical section without personal protective equipment.
-ON PRODUCTION, THE MAIN SOURCES OF DANGER ARE THE FOLLOWING TYPES OF WORK:
-• Drilling and major repairs of operating wells
-• Repair work on pipelines and technological equipment
-• Geophysical work
-• Seismic exploration work
-• Construction work
-• Operation of technological equipment
-• Operation of vessels and pipelines under pressure
-ON FIRE-HAZARDOUS OBJECTS, THE FOLLOWING ACTIONS ARE PROHIBITED:
-• Using open flames or smoking
-• Wearing shoes with metal horseshoes or nails
-• Using mobile phones and other radio-electronic devices that are not explosion-proof in Operator rooms classified as categories A, B for fire and explosion hazards, and in explosive zones B-1, B-1a, B-1g, B-2. These zones are in rooms where explosive mixtures may form under normal operating conditions, as well as spaces near outdoor installations containing combustible gases and flammable liquids
-THE GREATEST DANGERS AND RISKS ON PRODUCTION FACILITIES INCLUDE:
-• Equipment whose depressurization can lead to uncontrolled emissions of hazardous substances
-• Formation fluids containing hydrogen sulphide, which are under pressure in wells, pipelines, and technological equipment
-• Unfavourable sanitary and epidemiological conditions, including potential bites from reptiles, amphibians, and insects
-• High-risk work – working at heights, climbing works, lifting operations near power lines, earthworks, fire-related, gas-dangerous work, and work in electrical installations
-Visitors to production facilities are only allowed if accompanied by the responsible person for the facility or by a specially assigned worker for this purpose.
-The greatest danger to humans is hydrogen sulphide, which is present in the extracted raw materials. It is a colourless gas with the smell of rotten eggs and is a strong neuroparalytic poison. Its ignition temperature is 246°C. A noticeable smell of hydrogen sulphide is noted at concentrations up to 2 mg per cubic meter or 1.5 ppm. A significant Odor occurs at 4 mg per cubic meter or 3 ppm. A distressing Odor occurs from 7 to 11 mg per cubic meter or from 5 to 8 ppm. Hydrogen sulphide exposure causes severe poisoning, the outcome of which depends on the speed of intervention.
-At concentrations of 200-260 mg per cubic meter or 140-180 ppm, eye burning and nausea are observed. Dangerous poisoning occurs within 15–20 minutes at a concentration of 750 mg per cubic meter or 500 ppm. At a concentration of 1000 mg per cubic meter or 700 ppm and above, death occurs almost instantly. If you feel symptoms of hydrogen sulphide poisoning, immediately call for emergency medical assistance. The maximum permissible concentration of hydrogen sulphide in the air of the working zone, mixed with hydrocarbons, is 2.84 mg/cubic meter or 2 ppm. In residential areas, it is 0.008 mg/cubic meter or 0.005 ppm.
-PERSONAL GAS DETECTOR
-Each worker on the territory of the Gas Processing Plant and Gas Collection System facilities is provided with all necessary personal protective equipment. The personal gas detector warns about hydrogen sulphide concentrations above the established permissible concentration limit and serves as a personal safety device.
-Upon receiving the gas detector, conduct an external inspection. The body and display must not be damaged! The gas detector has a steel clip and is attached to clothing. The detector should be secured to the upper, outer pocket of the protective clothing.
-To activate it, press the power button. After performing the self-diagnosis test, the gas detector will begin normal operation.
-The gas detector is equipped with the following hydrogen sulphide measurement ranges:
-• 2 ppm, which corresponds to 2.84 mg/m³. This is the permissible concentration limit for the working zone air, the first trigger threshold. A single sound and light signal will activate, and the display will show the measured hydrogen sulphide concentration value and the symbol "A1".
-• 5 ppm, which corresponds to 7.1 mg/m³. This is the second trigger threshold for the permissible concentration limit of the working zone air. A double sound and light signal will activate, and the display will show the measured hydrogen sulphide concentration value and the symbol "A2".
-You must immediately leave the work zone while activating the "PPE"!
-Employees of the Kandym Gas Processing Complex are provided with all necessary personal protective equipment. For respiratory protection, an isolating self-rescuer type PDU-5M or PDU-5P is used.
-TECHNICAL CHARACTERISTICS OF THE PDU-5M/5P SELF-RESCUER
-The PDU-5 is an isolating breathing apparatus for single use. When activated, it isolates the human respiratory and visual organs from the surrounding environment, creating a breathing circuit in which the gas mixture (GDS) is maintained, suitable for breathing. The PDU-5 is designed for continuous wear in hazardous production areas. The plastic body ensures the device's high durability. Upon receiving it, check the seal's condition and ensure the case is free from damage. If defects are found, the PDU-5 self-rescuer should be replaced with a new one.
-RULES FOR USING THE PDU-5 SELF-RESCUER
-To use the self-rescuer, follow these steps:
-• Remove the helmet
-• Take the PDU-5 and quickly place the shoulder strap around your neck
-• Open the case
-• Hold the mask in place and pull out the working part by the neck strap
-• Unfold the working part, put it on, and adjust the neck strap
-• Inhale and hold your breath
-• Put the mask on your head
-• Activate the regenerative cartridge by pressing the metal cap of the starter ampoule fully
-• Exhale and continue breathing through the PDU-5
-• After connecting, tighten the head straps starting from the lower ones, then put on and adjust the neck strap. The correct use of the PDU-5 is confirmed by the inflation of the breathing bag and the warm gas mixture being inhaled.
-You must leave the emergency zone quickly and steadily. When evacuating from a gas-contaminated zone, the PDU-5 should only be used if the personal gas detector reads 5 ppm or higher.
-EMERGENCY ACTION PROCEDURE
-At the KANDYM GAS PROCESSING COMPLEX, two main alarm signals are used in emergency situations:
-• Fire hazard!
-• Gas hazard!
-As one of the most important measures aimed at protecting people in possible emergency situations, temporary evacuation of workers from the danger zone is provided. The evacuation is carried out considering weather conditions, including wind direction, speed, and forecasted changes in it. To determine evacuation routes, it is necessary to determine wind directions. Exit from the gas-contaminated zone should be strictly perpendicular to the wind direction.
-At the Gas Processing Plant and in the Pre-Factory Zone, seven personnel assembly points are provided, to which evacuation should occur depending on the wind direction.
-Upon receiving the alarm signal, personnel who have chosen the evacuation route through the northwest and southwest gates of the GPP must independently remove the fixing device and open the gates towards themselves at the first gate checkpoint, and at the second checkpoint, they should push the gates away from themselves forward and open them. Production facilities and sites are equipped with special loudspeaker communication devices for operational communication with the control room engineer. If necessary, any worker can use the communication device to transmit information.
-In the event of an emergency situation, a set of actions is taken:
-• Safe shutdown of equipment
-• Evacuation of personnel from production facilities
-• Notification of emergency rescue services
-• Deployment of emergency rescue services to the accident area
-• Entry of operational personnel of emergency rescue services to conduct reconnaissance, evacuate the injured, eliminate and localize the emergency
-• Personnel proceeding to the assembly points
-• If you are driving a vehicle within the territory of the Gas Processing Plant, upon the activation of the alarm signal, you must stop and park the vehicle on the roadway in such a way that it does not obstruct the emergency service vehicles. You must turn off the engine. Put on goggles and a protective helmet. Take the self-rescuer. Exit the vehicle and head to the nearest assembly point.
-• At the assembly points, the evacuated personnel are counted, and the section leaders report on the results of the evacuation.
-• Upon arrival at the assembly point, you must immediately report to your Supervisor via radio which assembly point you are at. If you do not have a radio, ask any supervisory employee at the assembly point to relay your information to the dispatcher of the Kandym Gas Processing Complex.
-To maintain operational readiness of emergency response procedures at KGP, training alarms and training sessions are organized according to the schedule. Regular checks of special equipment and mechanisms are carried out. In addition, training in first aid rules is conducted, and operational medical services are organized at KGP.
-Rules for Using Firefighting Equipment
-Rules for Using Fire Extinguishers:
-• Bring the fire extinguisher to the fire source, no closer than three meters, from the upwind side.
-• Break the seal.
-• Pull the pin by the ring.
-• Press the lever on the body.
-• Empty the fire extinguisher by pressing the lever.
-PROCEDURE FOR FILLING OUT THE KNO (Incident Reporting Form)
-At the production facilities of the Operator, a method of accounting and analysis of incidents without consequences is in place. KNO forms for filling out are located on informational boards near the boxes for collecting KNOs. In case of detecting hazardous actions, conditions, or incidents without consequences, the observer fills out a hazard observation card. The completed KNO form is placed in the KNO collection box. Then, the representative of the Fire Safety Service (PBS), Occupational Health and Safety (OHS), and Environmental Protection (EO) of the production facility opens the box and processes the KNOs filled out by the observers, subsequently entering them into the accounting journal.
-Rules for Using Firefighting Equipment
-Rules for Using Fire Extinguishers:
-• Bring the fire extinguisher to the fire source, no closer than three meters, from the upwind side.
-• Break the seal.
-• Pull the pin by the ring.
-• Press the lever on the body.
-• Empty the fire extinguisher by pressing the lever.
-PROCEDURE FOR FILLING OUT THE KNO (Incident Reporting Form)
-At the production facilities of the Operator, a method of accounting and analysis of incidents without consequences is in place. KNO forms for filling out are located on informational boards near the boxes for collecting KNOs. In case of detecting hazardous actions, conditions, or incidents without consequences, the observer fills out a hazard observation card. The completed KNO form is placed in the KNO collection box. Then, the representative of the Fire Safety Service (PBS), Occupational Health and Safety (OHS), and Environmental Protection (EO) of the production facility opens the box and processes the KNOs filled out by the observers, subsequently entering them into the accounting journal.
+Industrial safety, labour protection, and environmental protection briefing at the production facilities of the "Hauzak" GPS of "LUKOIL Uzbekistan Operating Company" LLC.
+Brief characteristics of the location areas of the "Hauzak" GPS sites.
+Gas Production Shop — "Hauzak" GPS is located in the Bukhara region of the Republic of Uzbekistan and includes the "North Shady" site, the "Kuvachi-Alat" site and the "Hauzak-West Shady" site.
+The "North Shady" and "Hauzak-West Shady" sites are located in the Bukhara region of the Republic of Uzbekistan in the Alat district and are geographically part of the Dengizkul field. The sites are located in a desert zone far from populated areas on the southern and northern sides of Lake Dengizkul. The lake has the status of an ornithological reserve and is a major ornithological territory of international importance. To prevent negative impacts on Lake "Dengizkul" and preserve its biological significance, a biodiversity conservation action plan has been developed and is being implemented. Around the lake, there is a water protection zone at a distance of 500 meters from the water's edge and critical habitats for avifauna have been designated.
+Climatic and physico-geographical characteristics of the sites' location.
+The territory where all sites are located belongs to the first climatic region. The climate is sharply continental, characterized by low atmospheric precipitation, low winter temperatures, and fairly high summer temperatures. Relative air humidity is low. The prevailing wind direction is northerly, which during certain periods of the year turns into dust storms. The relief of the sites belongs to a plain-lowland area with a hilly surface covered by sands. Soils are highly saline and possess high corrosive activity towards metals.
+"Hauzak-West Shady" site brief characteristic.
+The area of the Dengizkul gas condensate field is characterized by complex geological structure, high reservoir pressure, and significant reserves of gas and condensate. The gas is characterized by a high content of hydrogen sulphide. Within the "Hauzak-West Shady" site, one disposal well and 49 production wells have been put into operation, grouped pads as well: K 1, K 2, K 9, K 11, K 12, K 14, K 16, K 19, K 242, K 301. Gas from the wells is supplied to the well pads via individual flowlines, where all flowlines are combined into a single manifold, through which gas from the well pad is delivered to the Preliminary Gas Treatment Unit (PGTU). Subsequently, treatment and separation of hydrocarbon condensate, produced water, and gas take place. After separation and filtration, the gas is supplied to the Booster Compressor Station (BCS) for compression followed by transportation to the tie-in points of the "Dengizkul - MPGP" and "Urtabulak - MPGP" main gas pipelines. Condensate is transported via a condensate pipeline to the tie-in point of the "Kokdumalak - Bukhara Oil Refinery" main condensate pipeline.
+"Hauzak-West Shady" site main technological facilities.
+Well pads:
+    • Wells
+    • Pipelines from wellheads to well pads
+    • Well pad equipment — inlet manifolds of wells, test separator, fuel gas treatment unit
+    • Gas pipelines from well pads to PGTU
+Preliminary Gas Treatment Unit — PGTU
+    • Gas separation and metering system
+    • Condensate treatment and stabilization system
+    • Produced water treatment and disposal system
+    • Closed system for collection, storage, and transportation of condensate
+    • Flare system
+    • Inhibitor solution preparation system
+    • Fuel gas treatment system
+    • Compressed air system
+    • Fire-fighting pumping station
+    • Industrial wastewater injection site
+Booster Compressor Station — BCS. 
+The system consists of a connection node and three gas compression lines. The three gas compression lines include:
+    • Compressor units
+    • Inlet, outlet, and intermediate separators
+    • Air-cooled gas heat exchangers (ACHE)
+    • Compressed air system
+    • Low and high-pressure nitrogen system
+    • Hydrocarbon drainage system
+    • Low and high-pressure flare system
+    • Power supply system
+"North Shady" site brief characteristic.
+In accordance with the development project for the Dengizkul field, 1 disposal well and 11 production wells have been put into operation at the "North Shady" site. Gas from the production wells is supplied via individual flowlines to the Preliminary Gas Treatment Unit (PGTU) of the "North Shady" site. Primary treatment of gas and hydrocarbon condensate takes place at the PGTU; after separation and filtration, the gas is supplied to a mobile compressor unit for compression and further transportation to the tie-in point in the "Dengizkul – MPGP" interfiled gas pipeline. Gas from the "Kuvachi-Alat" site PGTU also undergoes re-separation at the "North Shady" site PGTU.
+"North Shady" site. Main technological facilities.
+Wells and gathering system:
+    • Well Christmas trees;
+    • Gas pipelines from wells to PGTU;
+Preliminary Gas Treatment Unit — PGTU:
+    • Inlet manifold unit for "North Shady" site wells;
+    • Inlet gas pipeline from "Kuvachi-Alat" site;
+    • Gas separation system;
+    • Fiscal gas metering system;
+    • Condensate and produced water separation and degassing system;
+    • Automated hydrocarbon condensate loading system;
+    • PGTU flare system;
+    • Drainage system;
+    • Fuel gas treatment system;
+    • Produced water and oil-contaminated wastewater disposal system;
+    • Air and nitrogen compressor station;
+    • Fire-fighting pumping station;
+    • Modular compressor unit (MCU);
+    • Connecting gas pipeline from "North Shady" PGTU to the tie-in point of the "Dengizkul – MPGP" interfiled gas pipeline. The pipeline includes a pig launcher/receiver (PLR), valve pads, and a pig launcher unit (PLU).
+Modular Compressor Unit — MCU.
+The MCU includes the following main systems:
+    • Process gas inlet and outlet section;
+    • – gas compression system;
+    • – oil supply system;
+    • – fuel gas supply and treatment system;
+    • – I&C (Instrumentation and Control) air storage and supply system;
+    • – nitrogen (inert gas) supply system;
+    • – drainage system;
+    • – flare system;
+"Kuvachi-Alat" Site
+The Kuvachi-Alat site is located in the Bukhara region of the Republic of Uzbekistan, partially in the Karakul and Alat districts, and is geographically part of the Kandym gas condensate field. The site is situated in the southwestern part of the Kyzylkum desert.
+12–15 km south of the "Kuvachi-Alat" Site is the "Khodzha Davlet" Key Ornithological Area, through which a motor road passes, connecting the "Kuvachi-Alat" and "North Shady" Sites. The territory with an area of 4,242 ha is located between the motor road and two canals: Amukarakul and Yamandzhar. The Operator's personnel working at the work sites and the personnel of all contracting organizations are obliged to treat all environmental objects with care, prevent their destruction, pollution, or damage, and are required to strictly adhere to the information materials and signs posted on the territory of the sites. The operator's personnel must strictly observe the internal labour regulations and the Operator's internal instructions in the field of environmental protection and rational use of natural resources.
+"Kuvachi-Alat" Site. Brief characteristic.
+In accordance with the development project for the Kandym group of fields, 23 production wells, 1 observation well, and 1 disposal well have been put into operation within the "Kuvachi-Alat" site. Gas from the Alat group wells is supplied via individual flowlines to the PGTU; gas from the Kuvachi K1 and K2 group wells is supplied to the GSP-1 (Gas Gathering Station), where it is combined into a common manifold and supplied to the PGTU. Gas from the K3 wells is supplied to GSP-2, where it is combined in the metering and main manifold and supplied to CP-3 (Control Point) for well flow rate measurement; from CP-3, the gas is delivered to the PGTU via the main manifold.
+Subsequently, natural gas treatment takes place with the separation of the fluid into gas, hydrocarbon condensate, and produced water. The gas undergoes primary treatment and is transported via a 500 mm diameter pipeline from the "Kuvachi-Alat" PGTU to the "North Shady" PGTU for further transportation to the tie-in point in the Dengizkul – Mubarek gas pipeline.
+"Kuvachi-Alat" Site. Main technological facilities.
+1. Wells and gathering system
+    • Well Christmas trees
+    • Flowlines from wellheads to GSP-1 and PGTU
+    • Flowlines from wellheads to GSP-2 and PGTU
+    • Gas pipelines from GSP-1 to PGTU
+    • Gas pipelines from GSP-2 to CP-3
+    • Gas pipelines from CP-3 to PGTU
+2. Preliminary Gas Treatment Unit — PGTU:
+    • Inlet manifold unit
+    • Gas separation system
+    • Condensate-produced water separation system
+    • Produced water treatment and disposal system
+    • Condensate stabilization system
+    • Closed system for collection and storage of condensate
+    • Automated condensate loading system
+    • Flare system
+    • Drainage system
+    • Methanol supply unit
+    • Operational gas and condensate metering systems
+    • Compressed air and nitrogen system
+    • Power supply system
+    • Fire-fighting pumping station
+
+Hazards and risks at production facilities
+The equipment of hazardous production facilities at the "Hauzak" gas production shop, the depressurization of which can lead to uncontrolled releases of hazardous substances, includes:
+    • Vessels and pipelines with high and low-pressure gas and condensate of primary gas and condensate treatment units.
+    • Components of pumping and compressor equipment.
+Hazards and risks at production facilities also include:
+    • Natural gas and hydrocarbon-containing liquid with hydrogen sulfide content under pressure in wells and inside technological equipment.
+    • Unfavourable sanitary and epidemiological conditions, including possible bites from reptiles and insects.
+    • Complex geological conditions.
+The product in the production equipment is fire and explosion hazardous!
+Hydrogen sulphide present in the extracted raw material—up to 4% by volume—represents the greatest danger to humans. Hydrogen sulphide is a colourless gas with the Odor of rotten eggs. It is a potent nerve agent, causing death from respiratory arrest. It has an irritating effect on the respiratory tract and eyes. It burns with a bluish flame, forming water and sulphur dioxide. The ignition temperature is 246°C. A perceptible smell of hydrogen sulphide is noted at concentrations up to 2 mg/m³; a significant smell at 4 mg/m³; a heavy smell from 7 to 11 mg/m³. At higher concentrations, the smell is less intense as olfactory fatigue (habituation) occurs. At concentrations of 200–260 mg/m³, burning in the eyes, irritation of the mucous membranes of the eyes and throat, and a metallic taste in the mouth are observed. At a concentration of 750 mg/m³, dangerous poisoning occurs within 15–20 minutes. At concentrations of 1000 mg/m³ and above, death occurs almost instantly. In mixtures with hydrocarbons, the maximum permissible concentration (MPC) of hydrogen sulphide in the air of the working zone is 3 mg/m³. The MPC of hydrogen sulfidic in the air of populated areas is 0.008 mg/m³.
+Main sources of danger
+The main sources of danger are the following types of work:
+    • Drilling and workover of production wells
+    • Performance of work on pipelines and technological equipment
+    • Geophysical surveys
+    • Seismic survey works
+    • Construction works
+    • Operation of motor vehicles and special equipment
+On fire and explosion hazardous facilities, it is prohibited to:
+    • Use open flames, smoke
+    • Use mobile phones and other electronic devices not in explosion-proof design
+    • Wear shoes with metal horseshoes or nails.
+Main methods of protection against hazards and risks
+The Operator takes the necessary measures to create safe working conditions at workplaces and protect workers from hazards and risks.
+The Golden Rules for industrial safety, labour protection, and environmental protection complement the existing integrated management system in this area. During the work process, they are aimed at ensuring the safety of the Operator's employees and are communicated to each of them. Employees are provided with all necessary equipment for the safe performance of labour duties according to the regulations on providing personal protective equipment (PPE).
+A disposable self-contained breathing apparatus is used as personal respiratory protection. While on a hazardous production facility, the continuous wearing of a personal gas detector and a self-rescuer is mandatory.
+Technical characteristics of the PDU-5P self-rescuer:
+    • protective action time: at least 20 minutes under average physical load (performing work corresponding to medium intensity loads or evacuation (walking))
+    • at least 7 minutes under heavy physical load (performing heavy work or rapid evacuation (running))
+    • at least 70 minutes in a state of relative rest (while waiting for help).
+Rule for using the self-rescuer
+Upon receiving the self-rescuer, you must check the condition of the case: the absence of cracks, punctures, dents, and other damage; the presence of the seal; and the presence of the shoulder and waist belt fastening system. If defects are found, replace the self-rescuer with a functional one. The self-rescuer can be worn over the shoulder, on the side behind the back, or on the belt. The belt length is adjusted using a buckle. To use the self-rescuer, the following should be done:
+    • Remove the helmet
+    • Position the PDU-5P to the "ready" position using the self-tightening buckles
+    • Open the case by pulling the ring to tear off the coupling tape
+    • Holding the mask, take out the working part by pulling its neck strap and unfold the working part
+    • Take a breath and hold it
+    • Put the mask on your head
+    • Start the regenerative cartridge by pressing the metal cap of the starter ampoule all the way in
+    • Exhale and continue breathing into the PDU-5
+    • After connecting, it is necessary to tighten the mask harness straps starting from the bottom ones
+    • Evidence of the correct use of the PDU-5 is the filling of the breathing bag and the inflow of a warm gas breathing mixture upon inhalation
+    • You must leave the emergency zone with a fast and steady pace.
+Personal gas detectors "GAS ALERT EXTREME" and "SP SECOND"
+They are designed to warn of hydrogen sulphides concentrations above the established maximum permissible concentration level. They are personal safety devices. Upon receiving them, conduct an external inspection; there should be no damage to the integrity of the body or display. Gas detectors have a steel clip for fastening to outer clothing. It is not permitted to fasten the detector under a jacket.
+Procedure for using the "GAS ALERT EXTREME" gas detector
+    • To activate it, press the far-left button; normal operation will begin after the self-diagnostic test is completed. The other buttons are for settings; using them is strictly prohibited.
+    • Upon leaving a gas-hazardous facility, deactivate the detector; to do this, press and hold the button for 5 seconds.
+The following hydrogen sulphide measurement ranges are set on the detector:
+2 ppm, which corresponds to 2.84 mg/m³, — the first trigger threshold. This activates the low-level alarm — a slow audible and vibration signal, and slow flashing of the ALARM label.
+5 ppm, which corresponds to 7.1 mg/m³, — the second trigger threshold. This activates the high-level alarm — a fast audible and vibration signal, and fast flashing of the ALARM label.
+Procedure for using the "SP SECOND" gas detector
+    • To turn it on, you must press and hold the "POWER" button. After the detector is switched on, the measured gas concentration will be displayed, all display elements will light up, and the signal LED, audible alarm, and vibration signal will activate sequentially; alarm thresholds A1-2 ppm and A2-5 ppm will be shown. At each increase to alarm thresholds A1 and A2, the detector provides visual and multi-tonal audible signals. You must immediately apply the PDU-5 and leave the work zone.
+    • Upon leaving a gas-hazardous facility, deactivate the detector; to do this, press and hold the "POWER" button.
+Procedure for using the "HONEYWELL BW SOLO" gas detector
+    • To turn it on, you must press the single control button. After pressing the button, the display backlight turns on. Press the button and hold it for 3 seconds. When the device turns on, it begins a countdown: "3, 2, 1". The LEDs light up, vibration activates, an audible signal is given, and the Honeywell logo is displayed on the screen.
+    • Upon leaving a gas-hazardous facility, deactivate the detector; to do this, press and hold the button for 3 seconds while the countdown is in progress.
+Procedure for using the "GAS ALERT EXTREME" gas detector
+    • To activate it, press the [OK] button. Before the device turns on, a countdown "3, 2, 1" will appear on the display. All display elements will light up. Then, the signal LED, the audible alarm device, and the vibration signal will turn on sequentially.
+    • Upon leaving a gas-hazardous facility, deactivate the detector; to do this, simultaneously press and hold both the [OK] and [+] buttons for approximately 2 seconds until the number "3" appears on the display. Do not release both buttons until the countdown is finished. Shutdown is confirmed by a beep signal.
+The following hydrogen sulphide measurement ranges are set on the detector:
+2 ppm, which corresponds to 2.84 mg/m³, — the first trigger threshold. This activates the low-level alarm — a slow audible and vibration signal, and slow flashing of the ALARM label.
+5 ppm, which corresponds to 7.1 mg/m³, — the second trigger threshold. This activates the high-level alarm — a fast audible and vibration signal, and fast flashing of the ALARM label.
+At the "Hauzak" GPS, two main notification signals have been adopted at all sites:
+    • Gas danger!
+    • Fire danger!
+Evacuation in the event of fire or gas release
+In accordance with the requirements of the legislation of the Republic of Uzbekistan, an Emergency Response Plan (ERP) has been developed at the "Hauzak" GPS. This document is mandatory for all enterprises operating gas-explosion and fire-hazardous facilities where emergency situations are possible. The Emergency Response Plan defines effective measures and actions for saving lives and liquidating an accident in the initial stage of its development. For rapid notification during accidents and incidents, the ERP provides a notification scheme for officials of the "Hauzak" GPS and interested territorial organizations regarding emergency and extraordinary situations arising at "Hauzak" GPS facilities. To determine evacuation routes, it is necessary to determine the wind direction; you must exit the gas-contaminated zone perpendicularly to the wind direction.
+In the event of an emergency, the following is performed:
+    • Equipment shutdown
+    • Evacuation of personnel from production facilities
+    • Notification of emergency services according to the notification scheme and their deployment to the accident area
+    • Personnel exit to the assembly point
+    • Report by site managers on the presence of subordinates
+    • Evacuation of personnel to a safe place
+    • Gas rescue teams entering the accident zone to conduct reconnaissance and carry out victims
+    • After receiving permission to enter the territory, firefighters perform combat deployment; special emergency services proceed to the containment and elimination of accidents.
+Providing first aid to victims of hydrogen sulphide poisoning
+Hydrogen sulphide poisoning causes a severe illness, the outcome of which depends on the speed of action taken. The first signs of hydrogen sulphide poisoning are: redness of the eyeball and eyelids, a metallic taste in the mouth, and nausea. In case of hydrogen sulphide poisoning, it is necessary to immediately call for emergency medical assistance.
+In all shift camps, there is a medical station with a duty shift doctor available 24 hours a day.
+In the administrative building, the dispatcher has a medical first aid kit where you can go in case of worsening health or minor injuries.
+If during your visit to production facilities you experience anxiety about anything, immediately report it to the security service or the dispatch office, as well as to the Industrial Safety and Labor Protection Service.
+Rules for the use of primary fire extinguishing equipment 
+Rules for using fire extinguishers:
+    • bring the fire extinguisher to the fire source no closer than 3 meters, break the seal, pull the pin by the ring, point the nozzle at the source of ignition, press the lever on the body all the way, and discharge the extinguisher by pressing the lever.
+PROCEDURE FOR FILLING OUT THE KNO (HAZARD OBSERVATION CARD). 
+At the Operator's production facilities, a methodology for accounting and analysing near-misses (incidents without consequences) is in operation. KNO forms for completion are located on information stands near the KNO collection boxes. If dangerous actions, conditions, or near-misses are detected, the observer fills out a hazard observation card. The completed KNO form is placed in the KNO collection box. Subsequently, a representative of the facility's IS, LP, and EP (Industrial Safety, Labor Protection, and Environmental Protection) Service opens the box and processes the KNOs completed by observers, with subsequent entry into the logbook.
 REMEMBER!
-Following the measures outlined in this instruction will help preserve your life and health.
+FOLLOWING THE MEASURES PRESENTED IN THIS BRIEFING WILL SAVE YOUR LIFE AND HEALTH!
+
